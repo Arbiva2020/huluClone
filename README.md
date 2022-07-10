@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## REACT.JS Project - Hulu Clone ( using Next.js, Tailwind CSS, Responsive)
-# A huge thank you, https://www.youtube.com/c/SonnySangha
+A huge thank you, https://www.youtube.com/c/SonnySangha
 
 First, run the development server:
 
